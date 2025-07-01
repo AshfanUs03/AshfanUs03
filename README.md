@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Associate Software Engineer at CGI with a background in Computer Science and Communication Engineering. Passionate about turning ideas into real-world software solutions. Currently exploring AI, AWS, and Google Cloud as part of my journey into DevOps and emerging tech. I enjoy working in collaborative environments, constantly learning, and building impactful projects that go beyond expectations.
+A Software Engineer Intern with a background in Computer Science and Communication Engineering. Passionate about turning ideas into real-world software solutions. Currently exploring AI, AWS, and Google Cloud as part of my journey into DevOps and emerging tech. I enjoy working in collaborative environments, constantly learning, and building impactful projects that go beyond expectations.
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [shaikhashfan03@gmail.com](mailto:shaikhashfan03@gmail.com)
